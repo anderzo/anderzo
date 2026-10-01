@@ -12,8 +12,5 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&background=0F2027&ring=2C5364&fire=2C5364&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA&hide_border=true)
-
-
 ## Contacto
 [LinkedIn](link) · [Correo](mailto:rg911068@gmail.com)
