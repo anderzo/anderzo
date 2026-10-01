@@ -10,6 +10,8 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Datos:** Python, Power BI, Excel, SQL, LookerStudio
 - **Sistemas:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ## Contacto
 [LinkedIn](link) · [Correo](mailto:rg911068@gmail.com)
