@@ -6,7 +6,8 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 
 ## Tecnologías
 - **Redes:** Cisco, Juniper, GNS3, OSPF, BGP, VLANs, etc..
-- **Backend:** Java, Spring Boot, PostgreSQL, Oracle, SQLserver, MongoBD
+- **Backend:** Java, Spring Boot
+- **Base de datos:** PostgreSQL, Oracle, SQLserver, MongoBD
 - **Datos:** Python, Power BI, Excel, SQL, LookerStudio
 - **Sistemas:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
 
