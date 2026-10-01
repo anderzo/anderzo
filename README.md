@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola, soy Anderzon 
 
-<!--
-**anderzo/anderzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas (UNAH) enfocado en **redes, backend y datos**.
 
-Here are some ideas to get you started:
+## Tecnologías
+- **Redes:** Cisco, Juniper, GNS3, OSPF, BGP, VLANs
+- **Backend:** Java, Spring Boot, PostgreSQL
+- **Datos:** Python, Power BI
+- **Sistemas:** Linux Server, Apache/Nginx, BIND9, SSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contacto
+[LinkedIn](link) · [Correo](mailto:rg911068@gmail.com)
