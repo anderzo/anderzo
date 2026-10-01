@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Backend:** Java, Spring Boot, ORM, Docker, Git
 - **Base de datos:** PostgreSQL, Oracle, SQLserver, MongoBD
 - **Datos:** Python, Power BI, Excel, SQL, LookerStudio
-- **Sistemas:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
+- **Servicios:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ander&theme=neon&hide_border=true&border_radius=4.3&locale=es)](https://git.io/streak-stats)
 
