@@ -10,7 +10,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Datos:** Python, Power BI, Excel, SQL, LookerStudio
 - **Sistemas:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ander&theme=transparent&hide_border=true&border_radius=4.3&locale=es)](https://git.io/streak-stats)
 
 ## Contacto
 [LinkedIn](link) · [Correo](mailto:rg911068@gmail.com)
