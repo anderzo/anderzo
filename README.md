@@ -7,15 +7,15 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 ## Tecnologías y Herramientas
 
 ### Redes & Infraestructura
-- **Routing & Switching:** Cisco (IOS), Juniper (Junos OS), MikroTik (RouterOS)
-- **Protocolos & Arquitectura:** OSPF, BGP, VLANs, IPsec VPN, TACACS+, SSH (Ed25519)
-- **Simulación & Emulación:** GNS3
-- **Servicios de Red:** Linux Server (Ubuntu), BIND9 (DNS), ISC Kea / ISC DHCP, Nginx, Apache, Postfix, Dovecot
+- **Routing & Switching:** Cisco (IOS), Juniper (Junos OS)
+- **Protocolos & Arquitectura:** OSPF, BGP, VLANs, VPN, SSH, etc...
+- **Simulación & Emulación:** GNS3, Packet Tracer
+- **Servicios de Red:** Linux Server (Ubuntu), DNS, ISC Kea|ISC DHCP, Nginx, Apache, Postfix, etc...
 - **Monitoreo & Análisis:** Zabbix, Wireshark
-- **Automatización & Scripting:** Python (Netmiko, PyNetBox), Ansible (YAML, NETCONF)
+- **Automatización & Scripting:** Python con Netmiko, PyNetBox, Ansible con YAML, NETCONF
 
 ### Backend, DevOps & Bases de datos
-- **Lenguajes & Frameworks:** Java (Spring Boot)
+- **Lenguajes & Frameworks:** Java + Spring Boot 
 - **Pruebas & API Testing:** Postman
 - **Contenedores & Control de Versiones:** Docker, Docker Compose, Git, GitHub Projects
 - **Relacionales:** PostgreSQL, MySQL, Oracle, SQL Server
@@ -23,8 +23,8 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Gestión:** DBeaver, pgAdmin
 
 ### Análisis de Datos & Entornos de Trabajos
-- **Procesamiento & Análisis:** Python (Pandas, Polars), R, SQL
-- **Visualización & BI:** Power BI, Looker Studio, Excel
+- **Procesamiento & Análisis:** Python con Pandas, Polars y otros; R, SQL
+- **Visualización & BI:** Power BI, Looker Studio, Excel y python
 - **Entornos Interactivos:** Jupyter Notebooks
 
 ## Proyectos Destacados
