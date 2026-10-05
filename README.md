@@ -33,7 +33,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| 🏦 **[Nombre-del-Repo-Core-Banking](https://github.com/anderzo/Redes)** | Infraestructura de red bancaria simulada con alta disponibilidad, OSPF y VLANs. | `GNS3` `Cisco` `Ubuntu` `Zabbix` |
+| 🏦 **[Redes](https://github.com/anderzo/Redes)** | Guias Tecnicas | `GNS3` `Cisco` `Ubuntu` `Zabbix` |
 | 🛡️ **[Nombre-del-Repo-Automation](https://github.com/anderzo/repo)** | Automatización de configuraciones de red multi-vendor mediante NETCONF y Ansible. | `Python` `Ansible` `Junos` `Netmiko` |
 | 🎵 **[Nombre-del-Repo-Backend](https://github.com/anderzo/repo)** | API RESTful diseñada bajo Arquitectura Limpia para gestión de servicios. | `Java` `Spring Boot` `PostgreSQL` `Docker` |
 
