@@ -33,7 +33,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **[Redes](https://github.com/anderzo/Redes)** | Guias Tecnicas | `GNS3` `Cisco` `Ubuntu` `Zabbix` |
-| **[backend-barberia](https://github.com/anderzo/backend-barberia)** | API RESTful diseñada bajo Arquitectura en Capas para gestión de servicios de una barberia | `Java` `Spring Boot` `PostgreSQL` `Docker` |
+| **[barberia-back](https://github.com/anderzo/backend-barberia)** | API RESTful diseñada bajo Arquitectura en Capas para gestión de servicios de una barberia | `Java` `Spring Boot` `PostgreSQL` `Docker` |
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ander&theme=neon&hide_border=true&border_radius=4.3&locale=es)](https://git.io/streak-stats)
 
