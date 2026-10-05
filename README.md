@@ -18,7 +18,6 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Lenguajes & Frameworks:** Java (Spring Boot)
 - **Pruebas & API Testing:** Postman
 - **Contenedores & Control de Versiones:** Docker, Docker Compose, Git, GitHub Projects
-
 - **Relacionales:** PostgreSQL, MySQL, Oracle, SQL Server
 - **NoSQL:** MongoDB
 - **Gestión:** DBeaver, pgAdmin
