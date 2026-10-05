@@ -4,12 +4,30 @@
 
 Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingenieria de Datos**.
 
-## Tecnologías
-- **Redes:** Cisco, Juniper, GNS3, OSPF, BGP, VLANs, etc..
-- **Backend:** Java, Spring Boot, ORM, Docker, Git
-- **Base de datos:** PostgreSQL, Oracle, SQLserver, MongoBD
-- **Datos:** Python, Power BI, Excel, SQL, LookerStudio
-- **Servicios:** Linux Server, Apache/Nginx, BIND9, SSH, isc-kea, zabbix, Ansibles-python
+## 🛠️ Tecnologías y Herramientas
+
+### 🌐 Redes & Infraestructura
+- **Routing & Switching:** Cisco (IOS), Juniper (Junos OS), MikroTik (RouterOS)
+- **Protocolos & Arquitectura:** OSPF, BGP, VLANs, IPsec VPN, TACACS+, SSH (Ed25519)
+- **Simulación & Emulación:** GNS3
+- **Servicios de Red:** Linux Server (Ubuntu), BIND9 (DNS), ISC Kea / ISC DHCP, Nginx, Apache, Postfix, Dovecot
+- **Monitoreo & Análisis:** Zabbix, Wireshark
+
+### ⚙️ Backend & DevOps
+- **Lenguajes & Frameworks:** Java (Spring Boot), C# (.NET)
+- **Pruebas & API Testing:** Postman
+- **Contenedores & Control de Versiones:** Docker, Docker Compose, Git, GitHub Projects
+- **Automatización & Scripting:** Python (Netmiko, PyNetBox), Ansible (YAML, NETCONF)
+
+### 🗄️ Bases de Datos
+- **Relacionales:** PostgreSQL, MySQL, Oracle, SQL Server
+- **NoSQL:** MongoDB
+- **Gestión:** DBeaver, pgAdmin
+
+### 📊 Análisis de Datos & Entornos de Trabajos
+- **Procesamiento & Análisis:** Python (Pandas, Polars), R, SQL
+- **Visualización & BI:** Power BI, Looker Studio, Excel
+- **Entornos Interactivos:** Jupyter Notebooks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ander&theme=neon&hide_border=true&border_radius=4.3&locale=es)](https://git.io/streak-stats)
 
