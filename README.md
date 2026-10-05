@@ -29,6 +29,14 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Visualización & BI:** Power BI, Looker Studio, Excel
 - **Entornos Interactivos:** Jupyter Notebooks
 
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| 🏦 **[Nombre-del-Repo-Core-Banking](https://github.com/anderzo/repo)** | Infraestructura de red bancaria simulada con alta disponibilidad, OSPF y VLANs. | `GNS3` `Cisco` `Ubuntu` `Zabbix` |
+| 🛡️ **[Nombre-del-Repo-Automation](https://github.com/anderzo/repo)** | Automatización de configuraciones de red multi-vendor mediante NETCONF y Ansible. | `Python` `Ansible` `Junos` `Netmiko` |
+| 🎵 **[Nombre-del-Repo-Backend](https://github.com/anderzo/repo)** | API RESTful diseñada bajo Arquitectura Limpia para gestión de servicios. | `Java` `Spring Boot` `PostgreSQL` `Docker` |
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ander&theme=neon&hide_border=true&border_radius=4.3&locale=es)](https://git.io/streak-stats)
 
 ## Contacto
