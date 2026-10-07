@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anderzon&fontSize=60&fontColor=ffffff&desc=Redes%20%7C%20Backend%20%7C%20Datos&descSize=20&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:6a11cb&height=200&section=header&text=Anderzon&fontSize=60&fontColor=ffffff&desc=Redes%20%7C%20Backend%20%7C%20Datos&descSize=20&descAlignY=65" width="100%" />
 
 # Hola, soy Anderzon 
 
