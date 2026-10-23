@@ -19,6 +19,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Pruebas & API Testing:** Postman
 - **Contenedores & Control de Versiones:** Docker, Docker Compose, Git, GitHub Projects
 - **Relacionales:** PostgreSQL, MySQL, Oracle, SQL Server
+- **Metodologías & Gestión de Proyectos:** Scrum, Jira
 - **NoSQL:** MongoDB
 - **Gestión:** DBeaver, pgAdmin
 
