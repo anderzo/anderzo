@@ -6,7 +6,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 
 ## Tecnologías y Herramientas
 
-### Redes & Infraestructura
+## Redes & Infraestructura
 - **Routing & Switching:** Cisco (IOS), Juniper (Junos OS)
 - **Protocolos & Arquitectura:** OSPF, BGP, VLANs, VPN, SSH, etc...
 - **Simulación & Emulación:** GNS3, Packet Tracer
@@ -14,7 +14,7 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **Monitoreo & Análisis:** Zabbix, Wireshark
 - **Automatización & Scripting:** Python con Netmiko, PyNetBox, Ansible con YAML, NETCONF
 
-### Backend, DevOps & Bases de datos
+## Backend, DevOps & Bases de datos
 - **Lenguajes & Frameworks:** Java + Spring Boot 
 - **Pruebas & API Testing:** Postman
 - **Contenedores & Control de Versiones:** Docker, Docker Compose, Git, GitHub Projects
