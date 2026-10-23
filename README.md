@@ -22,10 +22,22 @@ Estudiante de Ingeniería en Sistemas UNAH enfocado en **Redes, Backend e Ingeni
 - **NoSQL:** MongoDB
 - **Gestión:** DBeaver, pgAdmin
 
-### Análisis de Datos & Entornos de Trabajos
-- **Procesamiento & Análisis:** Python con Pandas, Polars y otros; R, SQL
-- **Visualización & BI:** Power BI, Looker Studio, Excel y python
+## Análisis de Datos & Entornos de Trabajo
+- **Procesamiento & Modelado :** Python con Pandas, NumPy, Polars y Scikit-learn; R, SQL
+- **Formatos de datos:** JSON, Parquet, CSV
+- **Modelado & Arquitectura:** Data Warehouse, modelo estrella, arquitectura Medallion (capas Bronce, Plata y Oro)
+- **Visualización & BI:** Power BI, Looker Studio, Excel y Python
 - **Entornos Interactivos:** Jupyter Notebooks
+
+## Frontend & Desarrollo Web
+
+- **Lenguajes & Frameworks:** JavaScript (ES6+), TypeScript, React (JSX/TSX) con Vite
+- **Estilos & UI:** HTML5, CSS3, Tailwind CSS, shadcn/ui
+- **Enrutamiento & Estado:** React Router, Context API, Hooks
+- **Arquitectura:** Estructura por capas (services, hooks, pages, components) y arquitectura limpia
+- **Consumo de APIs:** Integración con APIs REST, autenticación JWT
+- **Despliegue:** Sitios estáticos y control de versiones con Git
+- **Mock APIs & Prototipado:** json-server para simular APIs REST (CRUD) 
 
 ## Proyectos Destacados
 
